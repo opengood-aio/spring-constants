@@ -1,0 +1,19 @@
+name: release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    uses: opengoodio/central-workflows/.github/workflows/gradle-oss-release.yml@main
+    with:
+      git-email: ${{ vars.GIT_EMAIL }}
+      git-user: ${{ vars.GIT_USER }}
+      run-gradle-validation: true
+    secrets:
+      gpg-signing-password: ${{ secrets.GPG_SIGNING_PASSWORD }}
+      gpg-signing-private-key: ${{ secrets.GPG_SIGNING_PRIVATE_KEY }}
+      oss-repo-username: ${{ secrets.OSS_REPO_USERNAME }}
+      oss-repo-password: ${{ secrets.OSS_REPO_PASSWORD }}
