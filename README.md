@@ -1,4 +1,4 @@
-# Spring Commons Library
+# Spring Constants Library
 
 [![Build](https://github.com/opengoodio/spring-constants/workflows/build/badge.svg)](https://github.com/opengoodio/spring-constants/actions?query=workflow%3Abuild)
 [![Release](https://github.com/opengoodio/spring-constants/workflows/release/badge.svg)](https://github.com/opengoodio/spring-constants/actions?query=workflow%3Arelease)
