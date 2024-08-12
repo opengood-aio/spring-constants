@@ -1,12 +1,12 @@
 # Spring Constants Library
 
-[![Build](https://github.com/opengoodio/spring-constants/workflows/build/badge.svg)](https://github.com/opengoodio/spring-constants/actions?query=workflow%3Abuild)
-[![Release](https://github.com/opengoodio/spring-constants/workflows/release/badge.svg)](https://github.com/opengoodio/spring-constants/actions?query=workflow%3Arelease)
-[![CodeQL](https://github.com/opengoodio/spring-constants/actions/workflows/codeql.yml/badge.svg)](https://github.com/opengoodio/spring-constants/actions/workflows/codeql.yml)
-[![Codecov](https://codecov.io/gh/opengoodio/spring-constants/branch/main/graph/badge.svg?token=AEEYTGK87F)](https://codecov.io/gh/opengoodio/spring-constants)
-[![Release Version](https://img.shields.io/github/release/opengoodio/spring-constants.svg)](https://github.com/opengoodio/spring-constants/releases/latest)
+[![Build](https://github.com/opengood-aio/spring-constants/workflows/build/badge.svg)](https://github.com/opengood-aio/spring-constants/actions?query=workflow%3Abuild)
+[![Release](https://github.com/opengood-aio/spring-constants/workflows/release/badge.svg)](https://github.com/opengood-aio/spring-constants/actions?query=workflow%3Arelease)
+[![CodeQL](https://github.com/opengood-aio/spring-constants/actions/workflows/codeql.yml/badge.svg)](https://github.com/opengood-aio/spring-constants/actions/workflows/codeql.yml)
+[![Codecov](https://codecov.io/gh/opengood-aio/spring-constants/branch/main/graph/badge.svg?token=AEEYTGK87F)](https://codecov.io/gh/opengood-aio/spring-constants)
+[![Release Version](https://img.shields.io/github/release/opengood-aio/spring-constants.svg)](https://github.com/opengood-aio/spring-constants/releases/latest)
 [![Maven Central](https://img.shields.io/maven-central/v/io.opengood.constants/spring-constants.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.opengood.constants%22%20AND%20a:%22spring-constants%22)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/opengoodio/spring-constants/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/opengood-aio/spring-constants/master/LICENSE)
 
 Library containing reusable constants for Spring and Spring Boot
 
