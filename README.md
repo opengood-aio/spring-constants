@@ -5,7 +5,7 @@
 [![CodeQL](https://github.com/opengoodio/spring-constants/actions/workflows/codeql.yml/badge.svg)](https://github.com/opengoodio/spring-constants/actions/workflows/codeql.yml)
 [![Codecov](https://codecov.io/gh/opengoodio/spring-constants/branch/main/graph/badge.svg?token=AEEYTGK87F)](https://codecov.io/gh/opengoodio/spring-constants)
 [![Release Version](https://img.shields.io/github/release/opengoodio/spring-constants.svg)](https://github.com/opengoodio/spring-constants/releases/latest)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.opengood.constants/spring-constants/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.opengood.constants/spring-constants)
+[![Maven Central](https://img.shields.io/maven-central/v/io.opengood.constants/spring-constants.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.opengood.constants%22%20AND%20a:%22spring-constants%22)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/opengoodio/spring-constants/master/LICENSE)
 [![FOSSA](https://app.fossa.com/api/projects/custom%2B22161%2Fgithub.com%2Fopengoodio%2Fspring-constants.svg?type=small)](https://app.fossa.com/projects/custom%2B22161%2Fgithub.com%2Fopengoodio%2Fspring-constants?ref=badge_small)
 
@@ -13,7 +13,7 @@ Library containing reusable constants for Spring and Spring Boot
 
 ## Compatibility
 
-* Java 17
+* Java 21
 * Spring Boot 3
 
 ## Setup
